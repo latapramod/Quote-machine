@@ -1,0 +1,2 @@
+# Quote-machine
+random quotes
