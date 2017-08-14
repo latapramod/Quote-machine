@@ -1,0 +1,52 @@
+body {
+  background-color: #2B141F;
+  font-family: 'Philosopher', sans-serif;
+}
+
+.border {
+    padding: 15px;
+}
+#imagesize {
+  width: 70%;
+}
+h1, h3, h4 {
+  color: #FABE0A;
+  padding: 15px;
+}
+.btn-primary {
+  background-color: #FABE0A;
+  color: #164516;
+  font-weight: 700;
+  font-size: 25px;
+  border: 0px;
+}
+.quotecard {
+  padding: 25px 55px;
+}
+h2 {
+  color: #2B141F;
+  position: relative;
+  top: 350px;
+  left: 150px;
+  right: 100px;
+}
+p {
+  position: absolute;
+  top: 525px;
+  left: 400px;
+  font-weight: 700;
+  font-size: 20px;
+}
+.fa, fa-twitter  {
+    color: #FABE0A;
+    font-size: 85px;
+}
+@media screen and (min-width: 320px) and (max-width: 1440px) {
+    h2 {
+          position: absolute;
+          top: 330px;
+          left: 150px;
+          right: 50px;
+        
+        }
+}
